@@ -9,6 +9,6 @@
 
 ### Music license
 Time Stands Still by Purrple Cat | https://purrplecat.com <br>
-Music promoted by https://www.free-stock-music.com
-Creative Commons Attribution-ShareAlike 3.0 Unported
+Music promoted by https://www.free-stock-music.com <br>
+Creative Commons Attribution-ShareAlike 3.0 Unported <br>
 https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
