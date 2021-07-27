@@ -1,24 +1,22 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class CrabWorld here.
+ * MecaWorld juego de mecanografía relajante
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Manuel Alejandro Martinez Flores
+ * @version 2
  */
 public class MecaWorld extends World
 {
-    public int score = 0;
     /**
-     * Constructor for objects of class CrabWorld.
+     * Constructor for objects of class MecaWorld.
      * 
      */
-    
     public MecaWorld()
     {    
         super(560, 560, 1);
-        showText("SCORE", 280, 530);
-        Manager m = new Manager();
-        addObject(m, 560, 560);
+        Instrucciones i = new Instrucciones();
+        addObject(i, 0, 0);
+        Greenfoot.playSound("purrple-cat-time-stands-still.wav");
     }
 }
